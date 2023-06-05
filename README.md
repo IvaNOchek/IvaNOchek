@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvaNOchek
+- 👋 Hi, I’m @ivanochek
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning C#, C++, Python, Java
 
